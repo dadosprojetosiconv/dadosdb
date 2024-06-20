@@ -1,0 +1,9 @@
+Main.ipynb
+logs.txt
+Zips/
+output/
+libs/__pycache__/download.cpython-312.pyc
+libs/__pycache__/tratamentos.cpython-312.pyc
+libs/__pycache__/__init__.cpython-312.pyc
+libs/__pycache__/pipelines.cpython-312.pyc
+libs/__pycache__/sql.cpython-312.pyc
